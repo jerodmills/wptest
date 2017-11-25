@@ -1,1 +1,1 @@
-==Just a blank WordPress blog for some GitHub API testing==
+# Just a blank WordPress blog for some GitHub API testing
